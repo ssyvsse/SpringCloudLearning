@@ -11,3 +11,4 @@ Spring Cloud 自学课程<br>
 	6、在ribbon使用断路器和Hystrix仪表盘<br>
 	7、在feign使用断路器<br>
 	8、路由网关（zuul）<br>
+	9、分布式配置中心Spring Cloud Config<br>
