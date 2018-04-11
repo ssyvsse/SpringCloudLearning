@@ -12,3 +12,5 @@ Spring Cloud 自学课程<br>
 	7、在feign使用断路器<br>
 	8、路由网关（zuul）<br>
 	9、分布式配置中心Spring Cloud Config<br>
+		配置git仓库存储配置 config-server
+		从远程仓库获取配置文件 config-client
